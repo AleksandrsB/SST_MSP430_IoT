@@ -1,6 +1,0 @@
-"./MAIN.obj"
-"./Communication/cc2500.obj"
-"./utils/adc.obj"
-"./utils/board.obj"
-"../lnk_msp430f2274.cmd"
--llibc.a
